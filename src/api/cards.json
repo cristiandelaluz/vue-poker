@@ -1,0 +1,261 @@
+[{
+    "name": "Ace",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+As.png"
+  },
+  {
+    "name": "2",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+2.png"
+  },
+  {
+    "name": "3",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+3.png"
+  },
+  {
+    "name": "4",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+4.png"
+  },
+  {
+    "name": "5",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+5.png"
+  },
+  {
+    "name": "6",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+6.png"
+  },
+  {
+    "name": "7",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+7.png"
+  },
+  {
+    "name": "8",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+8.png"
+  },
+  {
+    "name": "9",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+9.png"
+  },
+  {
+    "name": "10",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+10.png"
+  },
+  {
+    "name": "Jack",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+Valet.png"
+  },
+  {
+    "name": "Queen",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+Queen.png"
+  },
+  {
+    "name": "King",
+    "suit": "hearts",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/hearts/Card+King.png"
+  },
+  {
+    "name": "Ace",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+As.png"
+  },
+  {
+    "name": "2",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+2.png"
+  },
+  {
+    "name": "3",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+3.png"
+  },
+  {
+    "name": "4",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+4.png"
+  },
+  {
+    "name": "5",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+5.png"
+  },
+  {
+    "name": "6",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+6.png"
+  },
+  {
+    "name": "7",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+7.png"
+  },
+  {
+    "name": "8",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+8.png"
+  },
+  {
+    "name": "9",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+9.png"
+  },
+  {
+    "name": "10",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+10.png"
+  },
+  {
+    "name": "Jack",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+Valet.png"
+  },
+  {
+    "name": "Queen",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+Queen.png"
+  },
+  {
+    "name": "King",
+    "suit": "spades",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/spades/Card+King.png"
+  },
+  {
+    "name": "Ace",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+As.png"
+  },
+  {
+    "name": "2",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+2.png"
+  },
+  {
+    "name": "3",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+3.png"
+  },
+  {
+    "name": "4",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+4.png"
+  },
+  {
+    "name": "5",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+5.png"
+  },
+  {
+    "name": "6",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+6.png"
+  },
+  {
+    "name": "7",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+7.png"
+  },
+  {
+    "name": "8",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+8.png"
+  },
+  {
+    "name": "9",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+9.png"
+  },
+  {
+    "name": "10",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+10.png"
+  },
+  {
+    "name": "Jack",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+Valet.png"
+  },
+  {
+    "name": "Queen",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+Queen.png"
+  },
+  {
+    "name": "King",
+    "suit": "diamonds",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/diamonds/Card+King.png"
+  },
+  {
+    "name": "Ace",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+As.png"
+  },
+  {
+    "name": "2",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+2.png"
+  },
+  {
+    "name": "3",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+3.png"
+  },
+  {
+    "name": "4",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+4.png"
+  },
+  {
+    "name": "5",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+5.png"
+  },
+  {
+    "name": "6",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+6.png"
+  },
+  {
+    "name": "7",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+7.png"
+  },
+  {
+    "name": "8",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+8.png"
+  },
+  {
+    "name": "9",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+9.png"
+  },
+  {
+    "name": "10",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+10.png"
+  },
+  {
+    "name": "Jack",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+Valet.png"
+  },
+  {
+    "name": "Queen",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+Queen.png"
+  },
+  {
+    "name": "King",
+    "suit": "clubs",
+    "image": "https://wewebdev.s3-eu-west-1.amazonaws.com/public/senior-front-test/clubs/Card+King.png"
+  }
+]
